@@ -78,5 +78,8 @@ Database `db_rental` dirancang dengan 3 entitas berelasi menggunakan storage eng
 
 ---
 
-## 5. Dokumentasi & Demo Video
-* Video Screen Record Demo CRUD Seluruh Tabel: `[MASUKKAN LINK VIDEO DEMO / SCREEN RECORD DI SINI]`
+## 5. Dokumentasi
+https://github.com/user-attachments/assets/404a07aa-626e-4be2-a706-8f0e99f14403
+
+
+
